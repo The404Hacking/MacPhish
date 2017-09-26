@@ -37,7 +37,7 @@ $./macphish.py -lh <listening host> -lp <listening port> -p <payload> -a meterpr
 For meterpreter attacks, only python payloads are supported at the moment. 
 
 ## Usage
-See https://github.com/cldrn/macphish/wiki/Usage
+See [https://github.com/The404Hacking/MacPhish/wiki](https://github.com/The404Hacking/MacPhish/wiki)
 
 ## PoCs
 * <https://drive.google.com/open?id=0BzPR8exG0kt6TlY1UWhiemVKRnc>
